@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "eb56aba12234f99f2729d45ea00c050d",
+    "packages": [
+        {
+            "name": "imithu/ll",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/imithu/LL.git",
+                "reference": "e992b604d2e6ffc1ff221c65dfe85e9a2e2c244d"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/imithu/LL/zipball/e992b604d2e6ffc1ff221c65dfe85e9a2e2c244d",
+                "reference": "e992b604d2e6ffc1ff221c65dfe85e9a2e2c244d",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "LL\\": [
+                        "LL"
+                    ]
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Mahmudul Hasan Mithu",
+                    "email": "imithu@imithu.com"
+                }
+            ],
+            "support": {
+                "issues": "https://github.com/imithu/LL/issues",
+                "source": "https://github.com/imithu/LL/tree/v1.0.0"
+            },
+            "time": "2021-01-06T19:44:46+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=7.4"
+    },
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}
