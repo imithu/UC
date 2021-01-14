@@ -7,13 +7,12 @@
             "email": "imithu@imithu.com"
         }
     ],
-    "require": {
-        "php": ">=7.4",
-        "imithu/ll": "^1.0"
-    },
-    "autoload":{
-        "psr-4":{
-            "UC\\":["UC"]
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "UC\\": [
+                "UC"
+            ]
         }
     }
 }

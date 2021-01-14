@@ -19,12 +19,8 @@ class Design
      */
     public static function text()
     {
-        Lang::$Path = __DIR__.'/../Lang/';
-
-        $uc = Lang::__( 'Design', 'text' );
-
         echo '<section>';
-            echo "<h1 class='h1 text-danger bg-dark text-center py-5 my-0'> {$uc} </h1>";
+            echo "<h1 class='h1 text-danger bg-dark text-center py-5 my-0'> Under Construction </h1>";
         echo '</section>';
     }
 }
